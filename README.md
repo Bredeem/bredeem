@@ -2,9 +2,9 @@
 
 ###
 
-<p align="left">Mon lean Brede, ja barggan ovdánahttin Giellateknos, UiT Norgga Árktalaš Universiteahtas. Mus lea Bachelorgráda informatihkas UiT:s, ja lean váldán davvisámegiel oahpuid sihkke UiT:s ja Sámi Allaskuvlas. <br>
+<p align="left">Mon lean Brede, ja barggan ovdánahttin Sámi leksikografiija guovddážis, UiT Norgga Árktalaš Universiteahtas. Mus lea Bachelorgráda informatihkas UiT:s, ja lean váldán davvisámegiel oahpuid sihkke UiT:s ja Sámi Allaskuvlas. <br>
 //<br>
-I'm Brede, and I work as a developer at Giellatekno, the Centre for Sámi language technology at UiT The Arctic University of Norway. I hold a Bachelor's degree in computer science from UiT, and I've studied North Sámi language at both UiT and the Sámi Univeristy of Applied Sciences.</p>
+I'm Brede, and I work as a developer at the Centre for Sámi lexicography at UiT The Arctic University of Norway. I hold a Bachelor's degree in computer science from UiT, and I've studied North Sámi language at both UiT and the Sámi Univeristy of Applied Sciences.</p>
 
 ###
 
